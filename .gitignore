@@ -1,0 +1,5 @@
+vendor/
+.env
+php.code-workspace
+.DS_Store
+*/log.txt

@@ -1,0 +1,21 @@
+{
+	"name": "halamus/magic-link",
+	"description": "Magic Link proof of concept",
+	"type": "project",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Lam Ha",
+			"email": "itzlamz9x@gmail.com"
+		}
+	],
+	"require": {
+		"vlucas/phpdotenv": "^5.3",
+		"magiclabs/magic-admin-php": "^0.1.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"Src\\": "src/"
+		}
+	}
+}
