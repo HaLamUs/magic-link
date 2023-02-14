@@ -65,8 +65,11 @@ php -S localhost:8000 -t api
 ## Reference
 https://github.com/shahbaz17/php-rest-api
 
-## Author 
-Lam Ha 
+## Author
+
+This repo was developed by [@lamha](https://github.com/HaLamUs). 
+Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/lamhacs). 
+
 
 ## License
 
